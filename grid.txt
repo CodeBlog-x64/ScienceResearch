@@ -1,0 +1,4 @@
+RARA
+spacing    0.375
+npts       20 20 20
+center    -3.003 -0.267 -14.450
